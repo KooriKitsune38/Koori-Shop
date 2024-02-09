@@ -11,3 +11,6 @@
 
 # Check requirements
 execute on target at @s run function kshop:check_requirements
+
+# Reset Interaction
+data modify entity @s interaction.player set value [I;0,0,0,0]

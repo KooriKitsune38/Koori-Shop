@@ -1,5 +1,8 @@
 #> kshop:reload
 
+# Tellraw
+tellraw @a {"text":"[Koori] Shops Module","color":"#b38781"}
+
 # Objectives
 scoreboard objectives add k.Values dummy
 
